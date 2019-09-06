@@ -12,14 +12,14 @@
 8. There should be nothing inside except a README.md file. Now, you will create a new file called "index.html" and another new filed called "style.css". (Right click > "New file" to create new files).
 9. Copy and paste the code from this repository's index.html file into the index.html file you created. This is just some starter code that sets up the website.
 
-    <link href="https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat|Source+Sans+Pro" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <div class="topbar">
-    <div class="items">
-      <a href="/resume.pdf" target="_blank"><div class="li">Resum&eacute;</div></a>
-    </div>
-    </div>
+        <div class="topbar">
+        <div class="items">
+        <a href="/resume.pdf" target="_blank"><div class="li">Resum&eacute;</div></a>
+        </div>
+        </div>
 
 
 
