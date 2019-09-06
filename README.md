@@ -1,9 +1,12 @@
 # Personal-Website-Workshop
 
+This is what the finished website will look like: https://richardg999.github.io.
+This is what the finished code should look like: https://github.com/richardg999/richardg999.github.io.
+
 ## Setup
 
 1. Install VS Code (or your favorite text editor).
-2. Recommended: Download the VS Code extension "Live Server". Click on Extensions button on side panel and search for "Live Server".
+2. Recommended: Download the VS Code extension "Live Server". Click on Extensions button on side panel and search for "Live Server". Live Server automatically refreshes the webpage in the browser every time you save in VS Code. It also provides a handy button at the bottom to launch HTML files.
 3. Create a GitHub account if you don't have one already.
 4. Install GitHub desktop (or use Git CLI if you already know how).
 5. Create a new repository on GitHub. Name it "(github-username).github.io". Initialize it with a README.
