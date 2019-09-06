@@ -72,4 +72,6 @@
         <h1>Richard Guo</h1>
 
 5. Preview your file (through Live Server, double clicking index.html, or some other method). You should see your name.
+6. Go to GitHub Desktop. Write a short description in the "Summary" text box and click "Commit to Master". Then click "Push origin" on the top right. This will push your code to GitHub. You can now see the code you added in your online GitHub repository. You should also be able to see your site at (github-username).github.io.
+
 
