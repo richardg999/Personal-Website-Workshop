@@ -72,7 +72,7 @@ This is what the finished code should look like: https://github.com/richardg999/
          </div>
     
 
-3. Now in your style.css file, add this code. This stylizes all of the text within the content div.
+3. Now in your style.css file, add this code (at the very bottom, not contained within anything else). This stylizes all of the text within the content div.
 
         .content {
             margin: 18% 20% 0% 20%;
